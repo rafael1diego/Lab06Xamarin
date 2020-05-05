@@ -1,0 +1,16 @@
+C:\Users\DFLORES\source\repos\Lab06\Lab06\obj\Debug\netstandard2.0\Lab06.csprojAssemblyReference.cache
+C:\Users\DFLORES\source\repos\Lab06\Lab06\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DFLORES\source\repos\Lab06\Lab06\obj\Debug\netstandard2.0\ListGroup.xaml.g.cs
+C:\Users\DFLORES\source\repos\Lab06\Lab06\obj\Debug\netstandard2.0\ListView.xaml.g.cs
+C:\Users\DFLORES\source\repos\Lab06\Lab06\obj\Debug\netstandard2.0\ListViewCode.xaml.g.cs
+C:\Users\DFLORES\source\repos\Lab06\Lab06\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DFLORES\source\repos\Lab06\Lab06\obj\Debug\netstandard2.0\Lab06.AssemblyInfoInputs.cache
+C:\Users\DFLORES\source\repos\Lab06\Lab06\obj\Debug\netstandard2.0\Lab06.AssemblyInfo.cs
+C:\Users\DFLORES\source\repos\Lab06\Lab06\bin\Debug\netstandard2.0\Lab06.deps.json
+C:\Users\DFLORES\source\repos\Lab06\Lab06\bin\Debug\netstandard2.0\Lab06.dll
+C:\Users\DFLORES\source\repos\Lab06\Lab06\bin\Debug\netstandard2.0\ref\Lab06.dll
+C:\Users\DFLORES\source\repos\Lab06\Lab06\bin\Debug\netstandard2.0\Lab06.pdb
+C:\Users\DFLORES\source\repos\Lab06\Lab06\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DFLORES\source\repos\Lab06\Lab06\obj\Debug\netstandard2.0\Lab06.dll
+C:\Users\DFLORES\source\repos\Lab06\Lab06\obj\Debug\netstandard2.0\ref\Lab06.dll
+C:\Users\DFLORES\source\repos\Lab06\Lab06\obj\Debug\netstandard2.0\Lab06.pdb
